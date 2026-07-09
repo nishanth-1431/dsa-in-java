@@ -14,11 +14,6 @@
         Output : [0, 1]
 
     -----------------------------------------------------------
-
-    Intuition:
-        Think about what pattern this problem follows.
-        What data structure or technique fits naturally?
-
     Approach:
         1. 
         2. 
@@ -35,7 +30,7 @@ class Solution {
 
     public int[] solve(int[] nums, int target) {
         // your solution
-        return new int[]{};
+        return new int[] {};
     }
 
 }
