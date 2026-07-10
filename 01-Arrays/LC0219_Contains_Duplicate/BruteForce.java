@@ -34,7 +34,7 @@
            return false.
 
     Complexity:
-        Time  : O(n²)
+        Time  : O(n^2)
         Space : O(1)
 
     Notes:
