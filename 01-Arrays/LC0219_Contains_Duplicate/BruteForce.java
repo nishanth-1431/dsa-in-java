@@ -41,8 +41,6 @@
         - Brute Force Solution
         - Uses nested loops to compare every pair.
         - Can be optimized to O(n) using a HashSet.
-
-    -----------------------------------------------------------
 */
 
 class Solution {
