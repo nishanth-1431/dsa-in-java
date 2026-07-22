@@ -1,4 +1,4 @@
-x   /*
+/*
     LeetCode #66 - Plus One
     Difficulty : Easy
     Topic      : Arrays
