@@ -54,30 +54,34 @@ This repository focuses on:
 
 ---
 
-# 🧠 Learning Roadmap
+# 🧠 Learning Roadmap (NeetCode 250 Sequence)
 
 <div align="center">
 
-| 🚀 Topic | Progress |
-|:--------------------------|:-------:|
-| 📦 Arrays | ⏳ |
-| 🔤 Strings | ⏳ |
-| 👉 Two Pointers | ⏳ |
-| 🪟 Sliding Window | ⏳ |
-| 🔍 Binary Search | ⏳ |
-| 🗺️ HashMap | ⏳ |
-| 📚 Stack | ⏳ |
-| 🚶 Queue | ⏳ |
-| 🔗 Linked List | ⏳ |
-| 🌳 Trees | ⏳ |
-| 🌲 BST | ⏳ |
-| 🌿 Trie | ⏳ |
-| 🪣 Heap | ⏳ |
-| 💡 Greedy | ⏳ |
-| 🧩 Dynamic Programming | ⏳ |
-| 🌐 Graphs | ⏳ |
-| ⚡ Bit Manipulation | ⏳ |
-| ➗ Math | ⏳ |
+| 🚀 Topic | NeetCode 250 Topic | Progress |
+|:--------------------------|:-------------------|:-------:|
+| 📦 01-Arrays-and-Hashing | Arrays & Hashing | ⏳ |
+| 👉 02-Two-Pointers | Two Pointers | ⏳ |
+| 📚 03-Stack | Stack | ⏳ |
+| 🔍 04-Binary-Search | Binary Search | ⏳ |
+| 🪟 05-Sliding-Window | Sliding Window | ⏳ |
+| 🔗 06-Linked-List | Linked List | ⏳ |
+| 🌳 07-Trees | Trees | ⏳ |
+| 🌿 08-Tries | Tries | ⏳ |
+| 🔄 09-Backtracking | Backtracking | ⏳ |
+| 🪣 10-Heap-Priority-Queue | Heap / Priority Queue | ⏳ |
+| 🌐 11-Graphs | Graphs | ⏳ |
+| 🧩 12-1D-Dynamic-Programming | 1-D Dynamic Programming | ⏳ |
+| 📐 13-Intervals | Intervals | ⏳ |
+| 💡 14-Greedy | Greedy | ⏳ |
+| ⚡ 15-Advanced-Graphs | Advanced Graphs | ⏳ |
+| 🧱 16-2D-Dynamic-Programming | 2-D Dynamic Programming | ⏳ |
+| 💻 17-Bit-Manipulation | Bit Manipulation | ⏳ |
+| ➗ 18-Math-and-Geometry | Math & Geometry | ⏳ |
+| 🏗️ 21-Design | System & Data Structure Design | ⏳ |
+| 🗄️ 22-SQL | SQL / Database | ⏳ |
+| 🍃 23-Spring-Boot | Backend Spring Boot Demos | ⏳ |
+| 🌐 24-System-Design | System Design Notes | ⏳ |
 
 </div>
 
@@ -88,26 +92,30 @@ This repository focuses on:
 ```text
 📦 dsa-in-java
 
-├── 📁 01-Arrays
-├── 📁 02-Strings
-├── 📁 03-Two-Pointers
-├── 📁 04-Sliding-Window
-├── 📁 05-Binary-Search
-├── 📁 06-HashMap
-├── 📁 07-Stack
-├── 📁 08-Queue
-├── 📁 09-Linked-List
-├── 📁 10-Recursion
-├── 📁 11-Backtracking
-├── 📁 12-Trees
-├── 📁 13-BST
-├── 📁 14-Trie
-├── 📁 15-Heap
-├── 📁 16-Greedy
-├── 📁 17-Dynamic-Programming
-├── 📁 18-Graphs
-├── 📁 19-Bit-Manipulation
-├── 📁 20-Math
+├── 📁 01-Arrays-and-Hashing
+├── 📁 02-Two-Pointers
+├── 📁 03-Stack
+├── 📁 04-Binary-Search
+├── 📁 05-Sliding-Window
+├── 📁 06-Linked-List
+├── 📁 07-Trees
+├── 📁 08-Tries
+├── 📁 09-Backtracking
+├── 📁 10-Heap-Priority-Queue
+├── 📁 11-Graphs
+├── 📁 12-1D-Dynamic-Programming
+├── 📁 13-Intervals
+├── 📁 14-Greedy
+├── 📁 15-Advanced-Graphs
+├── 📁 16-2D-Dynamic-Programming
+├── 📁 17-Bit-Manipulation
+├── 📁 18-Math-and-Geometry
+├── 📁 21-Design
+├── 📁 22-SQL
+├── 📁 23-Spring-Boot
+├── 📁 24-System-Design
+├── 📁 notes
+├── 📁 templates
 └── 📄 README.md
 ```
 
