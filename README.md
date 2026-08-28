@@ -162,7 +162,7 @@ class Goal {
 
     public static void main(String[] args) {
 
-        System.out.println("Solve 500+ LeetCode Problems 🚀");
+        System.out.println("Improve my coding logic 🚀");
 
     }
 
