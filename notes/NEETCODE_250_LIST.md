@@ -1,388 +1,254 @@
-# 🗺️ NeetCode 250 Full Problem List & Structure
+# NeetCode 250 Problems
 
-The **NeetCode 250** curriculum expands upon NeetCode 150 to offer complete pattern coverage across **18 core topics**.
-
-### 📊 Overall Structure & Difficulty Distribution
-
-- 🟢 **Easy**: 60 problems
-- 🟡 **Medium**: 155 problems
-- 🔴 **Hard**: 35 problems
-- 🎯 **Total**: **250 Problems** across **18 Categories**
-
----
-
-## 📦 01. Arrays & Hashing (26 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 217 | Contains Duplicate | 🟢 Easy |
-| 242 | Valid Anagram | 🟢 Easy |
-| 1 | Two Sum | 🟢 Easy |
-| 49 | Group Anagrams | 🟡 Medium |
-| 347 | Top K Frequent Elements | 🟡 Medium |
-| 238 | Product of Array Except Self | 🟡 Medium |
-| 36 | Valid Sudoku | 🟡 Medium |
-| 271 | Encode and Decode Strings | 🟡 Medium |
-| 128 | Longest Consecutive Sequence | 🟡 Medium |
-| 1929 | Concatenation of Array | 🟢 Easy |
-| 1299 | Replace Elements with Greatest Element on Right Side | 🟢 Easy |
-| 392 | Is Subsequence | 🟢 Easy |
-| 58 | Length of Last Word | 🟢 Easy |
-| 14 | Longest Common Prefix | 🟢 Easy |
-| 118 | Pascal's Triangle | 🟢 Easy |
-| 27 | Remove Element | 🟢 Easy |
-| 929 | Unique Email Addresses | 🟢 Easy |
-| 205 | Isomorphic Strings | 🟢 Easy |
-| 605 | Can Place Flowers | 🟢 Easy |
-| 169 | Majority Element | 🟢 Easy |
-| 496 | Next Greater Element I | 🟢 Easy |
-| 724 | Find Pivot Index | 🟢 Easy |
-| 303 | Range Sum Query - Immutable | 🟢 Easy |
-| 448 | Find All Numbers Disappeared in an Array | 🟢 Easy |
-| 1189 | Maximum Number of Balloons | 🟢 Easy |
-| 75 | Sort Colors | 🟡 Medium |
-
----
-
-## 👉 02. Two Pointers (14 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 125 | Valid Palindrome | 🟢 Easy |
-| 167 | Two Sum II - Input Array Is Sorted | 🟡 Medium |
-| 15 | 3Sum | 🟡 Medium |
-| 11 | Container With Most Water | 🟡 Medium |
-| 42 | Trapping Rain Water | 🔴 Hard |
-| 344 | Reverse String | 🟢 Easy |
-| 1768 | Merge Strings Alternately | 🟢 Easy |
-| 680 | Valid Palindrome II | 🟢 Easy |
-| 283 | Move Zeroes | 🟢 Easy |
-| 26 | Remove Duplicates from Sorted Array | 🟢 Easy |
-| 80 | Remove Duplicates from Sorted Array II | 🟡 Medium |
-| 977 | Squares of a Sorted Array | 🟢 Easy |
-| 881 | Boats to Save People | 🟡 Medium |
-| 18 | 4Sum | 🟡 Medium |
-
----
-
-## 📚 03. Stack (14 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 20 | Valid Parentheses | 🟢 Easy |
-| 155 | Min Stack | 🟡 Medium |
-| 150 | Evaluate Reverse Polish Notation | 🟡 Medium |
-| 22 | Generate Parentheses | 🟡 Medium |
-| 739 | Daily Temperatures | 🟡 Medium |
-| 853 | Car Fleet | 🟡 Medium |
-| 84 | Largest Rectangle in Histogram | 🔴 Hard |
-| 682 | Baseball Game | 🟢 Easy |
-| 2390 | Removing Stars From a String | 🟡 Medium |
-| 1544 | Make The String Great | 🟢 Easy |
-| 71 | Simplify Path | 🟡 Medium |
-| 394 | Decode String | 🟡 Medium |
-| 735 | Asteroid Collision | 🟡 Medium |
-| 901 | Online Stock Span | 🟡 Medium |
-
----
-
-## 🔍 04. Binary Search (14 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 704 | Binary Search | 🟢 Easy |
-| 74 | Search a 2D Matrix | 🟡 Medium |
-| 875 | Koko Eating Bananas | 🟡 Medium |
-| 153 | Find Minimum in Rotated Sorted Array | 🟡 Medium |
-| 33 | Search in Rotated Sorted Array | 🟡 Medium |
-| 981 | Time Based Key-Value Store | 🟡 Medium |
-| 4 | Median of Two Sorted Arrays | 🔴 Hard |
-| 35 | Search Insert Position | 🟢 Easy |
-| 374 | Guess Number Higher or Lower | 🟢 Easy |
-| 278 | First Bad Version | 🟢 Easy |
-| 367 | Valid Perfect Square | 🟢 Easy |
-| 441 | Arranging Coins | 🟢 Easy |
-| 540 | Single Element in a Sorted Array | 🟡 Medium |
-| 1011 | Capacity To Ship Packages Within D Days | 🟡 Medium |
-
----
-
-## 🪟 05. Sliding Window (12 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 121 | Best Time to Buy and Sell Stock | 🟢 Easy |
-| 3 | Longest Substring Without Repeating Characters | 🟡 Medium |
-| 424 | Longest Repeating Character Replacement | 🟡 Medium |
-| 567 | Permutation in String | 🟡 Medium |
-| 76 | Minimum Window Substring | 🔴 Hard |
-| 239 | Sliding Window Maximum | 🔴 Hard |
-| 219 | Contains Duplicate II | 🟢 Easy |
-| 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 🟡 Medium |
-| 209 | Minimum Size Subarray Sum | 🟡 Medium |
-| 1456 | Maximum Number of Vowels in a Substring of Given Length | 🟡 Medium |
-| 1838 | Frequency of the Most Frequent Element | 🟡 Medium |
-| 1423 | Maximum Points You Can Obtain from Cards | 🟡 Medium |
-
----
-
-## 🔗 06. Linked List (16 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 206 | Reverse Linked List | 🟢 Easy |
-| 21 | Merge Two Sorted Lists | 🟢 Easy |
-| 143 | Reorder List | 🟡 Medium |
-| 19 | Remove Nth Node From End of List | 🟡 Medium |
-| 138 | Copy List with Random Pointer | 🟡 Medium |
-| 2 | Add Two Numbers | 🟡 Medium |
-| 141 | Linked List Cycle | 🟢 Easy |
-| 287 | Find the Duplicate Number | 🟡 Medium |
-| 146 | LRU Cache | 🟡 Medium |
-| 23 | Merge k Sorted Lists | 🔴 Hard |
-| 25 | Reverse Nodes in k-Group | 🔴 Hard |
-| 234 | Palindrome Linked List | 🟢 Easy |
-| 160 | Intersection of Two Linked Lists | 🟢 Easy |
-| 203 | Remove Linked List Elements | 🟢 Easy |
-| 24 | Swap Nodes in Pairs | 🟡 Medium |
-| 148 | Sort List | 🟡 Medium |
-
----
-
-## 🌳 07. Trees (20 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 226 | Invert Binary Tree | 🟢 Easy |
-| 104 | Maximum Depth of Binary Tree | 🟢 Easy |
-| 543 | Diameter of Binary Tree | 🟢 Easy |
-| 110 | Balanced Binary Tree | 🟢 Easy |
-| 100 | Same Tree | 🟢 Easy |
-| 572 | Subtree of Another Tree | 🟢 Easy |
-| 235 | Lowest Common Ancestor of a BST | 🟡 Medium |
-| 102 | Binary Tree Level Order Traversal | 🟡 Medium |
-| 199 | Binary Tree Right Side View | 🟡 Medium |
-| 1448 | Count Good Nodes in Binary Tree | 🟡 Medium |
-| 98 | Validate Binary Search Tree | 🟡 Medium |
-| 230 | Kth Smallest Element in a BST | 🟡 Medium |
-| 105 | Construct Binary Tree from Preorder and Inorder Traversal | 🟡 Medium |
-| 124 | Binary Tree Maximum Path Sum | 🔴 Hard |
-| 297 | Serialize and Deserialize Binary Tree | 🔴 Hard |
-| 101 | Symmetric Tree | 🟢 Easy |
-| 112 | Path Sum | 🟢 Easy |
-| 129 | Sum Root to Leaf Numbers | 🟡 Medium |
-| 103 | Binary Tree Zigzag Level Order Traversal | 🟡 Medium |
-| 106 | Construct Binary Tree from Inorder and Postorder Traversal | 🟡 Medium |
-
----
-
-## 🌿 08. Tries (5 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 208 | Implement Trie (Prefix Tree) | 🟡 Medium |
-| 211 | Design Add and Search Words Data Structure | 🟡 Medium |
-| 212 | Word Search II | 🔴 Hard |
-| 2707 | Extra Characters in a String | 🟡 Medium |
-| 1268 | Search Suggestions System | 🟡 Medium |
-
----
-
-## 🔄 09. Backtracking (14 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 78 | Subsets | 🟡 Medium |
-| 39 | Combination Sum | 🟡 Medium |
-| 46 | Permutations | 🟡 Medium |
-| 90 | Subsets II | 🟡 Medium |
-| 40 | Combination Sum II | 🟡 Medium |
-| 79 | Word Search | 🟡 Medium |
-| 131 | Palindrome Partitioning | 🟡 Medium |
-| 17 | Letter Combinations of a Phone Number | 🟡 Medium |
-| 51 | N-Queens | 🔴 Hard |
-| 77 | Combinations | 🟡 Medium |
-| 47 | Permutations II | 🟡 Medium |
-| 52 | N-Queens II | 🔴 Hard |
-| 93 | Restore IP Addresses | 🟡 Medium |
-| 473 | Matchsticks to Square | 🟡 Medium |
-
----
-
-## 🪣 10. Heap / Priority Queue (13 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 703 | Kth Largest Element in a Stream | 🟢 Easy |
-| 1046 | Last Stone Weight | 🟢 Easy |
-| 973 | K Closest Points to Origin | 🟡 Medium |
-| 215 | Kth Largest Element in an Array | 🟡 Medium |
-| 621 | Task Scheduler | 🟡 Medium |
-| 355 | Design Twitter | 🟡 Medium |
-| 295 | Find Median from Data Stream | 🔴 Hard |
-| 767 | Reorganize String | 🟡 Medium |
-| 692 | Top K Frequent Words | 🟡 Medium |
-| 1094 | Car Pooling | 🟡 Medium |
-| 658 | Find K Closest Elements | 🟡 Medium |
-| 1834 | Single-Threaded CPU | 🟡 Medium |
-| 2542 | Maximum Subsequence Score | 🟡 Medium |
-
----
-
-## 🌐 11. Graphs (18 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 200 | Number of Islands | 🟡 Medium |
-| 695 | Max Area of Island | 🟡 Medium |
-| 133 | Clone Graph | 🟡 Medium |
-| 286 | Walls and Gates | 🟡 Medium |
-| 994 | Rotting Oranges | 🟡 Medium |
-| 417 | Pacific Atlantic Water Flow | 🟡 Medium |
-| 130 | Surrounded Regions | 🟡 Medium |
-| 207 | Course Schedule | 🟡 Medium |
-| 210 | Course Schedule II | 🟡 Medium |
-| 261 | Graph Valid Tree | 🟡 Medium |
-| 323 | Number of Connected Components in an Undirected Graph | 🟡 Medium |
-| 684 | Redundant Connection | 🟡 Medium |
-| 127 | Word Ladder | 🔴 Hard |
-| 953 | Verifying an Alien Dictionary | 🟢 Easy |
-| 463 | Island Perimeter | 🟢 Easy |
-| 997 | Find the Town Judge | 🟢 Easy |
-| 797 | All Paths From Source to Target | 🟡 Medium |
-| 1557 | Minimum Number of Vertices to Reach All Nodes | 🟡 Medium |
-
----
-
-## 🧩 12. 1-D Dynamic Programming (17 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 70 | Climbing Stairs | 🟢 Easy |
-| 746 | Min Cost Climbing Stairs | 🟢 Easy |
-| 198 | House Robber | 🟡 Medium |
-| 213 | House Robber II | 🟡 Medium |
-| 5 | Longest Palindromic Substring | 🟡 Medium |
-| 647 | Palindromic Substrings | 🟡 Medium |
-| 91 | Decode Ways | 🟡 Medium |
-| 322 | Coin Change | 🟡 Medium |
-| 152 | Maximum Product Subarray | 🟡 Medium |
-| 139 | Word Break | 🟡 Medium |
-| 300 | Longest Increasing Subsequence | 🟡 Medium |
-| 416 | Partition Equal Subset Sum | 🟡 Medium |
-| 1137 | N-th Tribonacci Number | 🟢 Easy |
-| 377 | Combination Sum IV | 🟡 Medium |
-| 96 | Unique Binary Search Trees | 🟡 Medium |
-| 343 | Integer Break | 🟡 Medium |
-| 279 | Perfect Squares | 🟡 Medium |
-
----
-
-## 📐 13. Intervals (7 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 57 | Insert Interval | 🟡 Medium |
-| 56 | Merge Intervals | 🟡 Medium |
-| 435 | Non-overlapping Intervals | 🟡 Medium |
-| 252 | Meeting Rooms | 🟢 Easy |
-| 253 | Meeting Rooms II | 🟡 Medium |
-| 1851 | Minimum Interval to Include Each Query | 🔴 Hard |
-| 228 | Summary Ranges | 🟢 Easy |
-
----
-
-## 💡 14. Greedy (16 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 53 | Maximum Subarray | 🟡 Medium |
-| 55 | Jump Game | 🟡 Medium |
-| 45 | Jump Game II | 🟡 Medium |
-| 134 | Gas Station | 🟡 Medium |
-| 846 | Hand of Straights | 🟡 Medium |
-| 1899 | Merge Triplets to Form Target Triplet | 🟡 Medium |
-| 763 | Partition Labels | 🟡 Medium |
-| 678 | Valid Parenthesis String | 🟡 Medium |
-| 860 | Lemonade Change | 🟢 Easy |
-| 455 | Assign Cookies | 🟢 Easy |
-| 135 | Candy | 🔴 Hard |
-| 670 | Maximum Swap | 🟡 Medium |
-| 1029 | Two City Scheduling | 🟡 Medium |
-| 649 | Dota2 Senate | 🟡 Medium |
-| 621 | Task Scheduler | 🟡 Medium |
-| 1647 | Minimum Deletions to Make Character Frequencies Unique | 🟡 Medium |
-
----
-
-## ⚡ 15. Advanced Graphs (8 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 743 | Network Delay Time | 🟡 Medium |
-| 332 | Reconstruct Itinerary | 🔴 Hard |
-| 1584 | Min Cost to Connect All Points | 🟡 Medium |
-| 778 | Swim in Rising Water | 🔴 Hard |
-| 269 | Alien Dictionary | 🔴 Hard |
-| 787 | Cheapest Flights Within K Stops | 🟡 Medium |
-| 1135 | Connecting Cities With Minimum Cost | 🟡 Medium |
-| 1514 | Path with Maximum Probability | 🟡 Medium |
-
----
-
-## 🧱 16. 2-D Dynamic Programming (14 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 62 | Unique Paths | 🟡 Medium |
-| 1143 | Longest Common Subsequence | 🟡 Medium |
-| 309 | Best Time to Buy and Sell Stock with Cooldown | 🟡 Medium |
-| 518 | Coin Change II | 🟡 Medium |
-| 494 | Target Sum | 🟡 Medium |
-| 97 | Interleaving String | 🟡 Medium |
-| 329 | Longest Increasing Path in a Matrix | 🔴 Hard |
-| 115 | Distinct Subsequences | 🔴 Hard |
-| 72 | Edit Distance | 🔴 Hard |
-| 312 | Burst Balloons | 🔴 Hard |
-| 10 | Regular Expression Matching | 🔴 Hard |
-| 63 | Unique Paths II | 🟡 Medium |
-| 64 | Minimum Path Sum | 🟡 Medium |
-| 1049 | Last Stone Weight II | 🟡 Medium |
-
----
-
-## 💻 17. Bit Manipulation (10 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 136 | Single Number | 🟢 Easy |
-| 191 | Number of 1 Bits | 🟢 Easy |
-| 338 | Counting Bits | 🟢 Easy |
-| 190 | Reverse Bits | 🟢 Easy |
-| 268 | Missing Number | 🟢 Easy |
-| 371 | Sum of Two Integers | 🟡 Medium |
-| 7 | Reverse Integer | 🟡 Medium |
-| 137 | Single Number II | 🟡 Medium |
-| 260 | Single Number III | 🟡 Medium |
-| 67 | Add Binary | 🟢 Easy |
-
----
-
-## ➗ 18. Math & Geometry (11 Problems)
-
-| LC # | Problem Title | Difficulty |
-| :---: | :--- | :---: |
-| 48 | Rotate Image | 🟡 Medium |
-| 54 | Spiral Matrix | 🟡 Medium |
-| 73 | Set Matrix Zeroes | 🟡 Medium |
-| 202 | Happy Number | 🟢 Easy |
-| 66 | Plus One | 🟢 Easy |
-| 50 | Pow(x, n) | 🟡 Medium |
-| 43 | Multiply Strings | 🟡 Medium |
-| 2013 | Detect Squares | 🟡 Medium |
-| 149 | Max Points on a Line | 🔴 Hard |
-| 168 | Excel Sheet Column Title | 🟢 Easy |
-| 1071 | Greatest Common Divisor of Strings | 🟢 Easy |
-
----
-
+| ID | Problem | Difficulty | Concept |
+|---|---|---|---|
+| 1929 | [Concatenation of Array](https://neetcode.io/problems/concatenation-of-array/question?list=neetcode250) | Easy | Arrays & Hashing |
+| 217 | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer/question?list=neetcode250) | Easy | Arrays & Hashing |
+| 242 | [Valid Anagram](https://neetcode.io/problems/is-anagram/question?list=neetcode250) | Easy | Arrays & Hashing |
+| 1 | [Two Sum](https://neetcode.io/problems/two-integer-sum/question?list=neetcode250) | Easy | Arrays & Hashing |
+| 14 | [Longest Common Prefix](https://neetcode.io/problems/longest-common-prefix/question?list=neetcode250) | Easy | Arrays & Hashing |
+| 49 | [Group Anagrams](https://neetcode.io/problems/anagram-groups/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 27 | [Remove Element](https://neetcode.io/problems/remove-element/question?list=neetcode250) | Easy | Arrays & Hashing |
+| 169 | [Majority Element](https://neetcode.io/problems/majority-element/question?list=neetcode250) | Easy | Arrays & Hashing |
+| 705 | [Design HashSet](https://neetcode.io/problems/design-hashset/question?list=neetcode250) | Easy | Arrays & Hashing |
+| 706 | [Design HashMap](https://neetcode.io/problems/design-hashmap/question?list=neetcode250) | Easy | Arrays & Hashing |
+| 912 | [Sort an Array](https://neetcode.io/problems/sort-an-array/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 75 | [Sort Colors](https://neetcode.io/problems/sort-colors/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 347 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 271 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 304 | [Range Sum Query 2D Immutable](https://neetcode.io/problems/range-sum-query-2d-immutable/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 238 | [Product of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 36 | [Valid Sudoku](https://neetcode.io/problems/valid-sudoku/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 128 | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 122 | [Best Time to Buy And Sell Stock II](https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 229 | [Majority Element II](https://neetcode.io/problems/majority-element-ii/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 560 | [Subarray Sum Equals K](https://neetcode.io/problems/subarray-sum-equals-k/question?list=neetcode250) | Medium | Arrays & Hashing |
+| 41 | [First Missing Positive](https://neetcode.io/problems/first-missing-positive/question?list=neetcode250) | Hard | Arrays & Hashing |
+| 344 | [Reverse String](https://neetcode.io/problems/reverse-string/question?list=neetcode250) | Easy | Two Pointers |
+| 125 | [Valid Palindrome](https://neetcode.io/problems/is-palindrome/question?list=neetcode250) | Easy | Two Pointers |
+| 680 | [Valid Palindrome II](https://neetcode.io/problems/valid-palindrome-ii/question?list=neetcode250) | Easy | Two Pointers |
+| 1768 | [Merge Strings Alternately](https://neetcode.io/problems/merge-strings-alternately/question?list=neetcode250) | Easy | Two Pointers |
+| 88 | [Merge Sorted Array](https://neetcode.io/problems/merge-sorted-array/question?list=neetcode250) | Easy | Two Pointers |
+| 26 | [Remove Duplicates From Sorted Array](https://neetcode.io/problems/remove-duplicates-from-sorted-array/question?list=neetcode250) | Easy | Two Pointers |
+| 167 | [Two Sum II Input Array Is Sorted](https://neetcode.io/problems/two-integer-sum-ii/question?list=neetcode250) | Medium | Two Pointers |
+| 15 | [3Sum](https://neetcode.io/problems/three-integer-sum/question?list=neetcode250) | Medium | Two Pointers |
+| 18 | [4Sum](https://neetcode.io/problems/4sum/question?list=neetcode250) | Medium | Two Pointers |
+| 189 | [Rotate Array](https://neetcode.io/problems/rotate-array/question?list=neetcode250) | Medium | Two Pointers |
+| 11 | [Container With Most Water](https://neetcode.io/problems/max-water-container/question?list=neetcode250) | Medium | Two Pointers |
+| 881 | [Boats to Save People](https://neetcode.io/problems/boats-to-save-people/question?list=neetcode250) | Medium | Two Pointers |
+| 42 | [Trapping Rain Water](https://neetcode.io/problems/trapping-rain-water/question?list=neetcode250) | Hard | Two Pointers |
+| 219 | [Contains Duplicate II](https://neetcode.io/problems/contains-duplicate-ii/question?list=neetcode250) | Easy | Sliding Window |
+| 121 | [Best Time to Buy And Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto/question?list=neetcode250) | Easy | Sliding Window |
+| 3 | [Longest Substring Without Repeating Characters](https://neetcode.io/problems/longest-substring-without-duplicates/question?list=neetcode250) | Medium | Sliding Window |
+| 424 | [Longest Repeating Character Replacement](https://neetcode.io/problems/longest-repeating-substring-with-replacement/question?list=neetcode250) | Medium | Sliding Window |
+| 567 | [Permutation In String](https://neetcode.io/problems/permutation-string/question?list=neetcode250) | Medium | Sliding Window |
+| 209 | [Minimum Size Subarray Sum](https://neetcode.io/problems/minimum-size-subarray-sum/question?list=neetcode250) | Medium | Sliding Window |
+| 658 | [Find K Closest Elements](https://neetcode.io/problems/find-k-closest-elements/question?list=neetcode250) | Medium | Sliding Window |
+| 76 | [Minimum Window Substring](https://neetcode.io/problems/minimum-window-with-characters/question?list=neetcode250) | Hard | Sliding Window |
+| 239 | [Sliding Window Maximum](https://neetcode.io/problems/sliding-window-maximum/question?list=neetcode250) | Hard | Sliding Window |
+| 682 | [Baseball Game](https://neetcode.io/problems/baseball-game/question?list=neetcode250) | Easy | Stack |
+| 20 | [Valid Parentheses](https://neetcode.io/problems/validate-parentheses/question?list=neetcode250) | Easy | Stack |
+| 225 | [Implement Stack Using Queues](https://neetcode.io/problems/implement-stack-using-queues/question?list=neetcode250) | Easy | Stack |
+| 232 | [Implement Queue using Stacks](https://neetcode.io/problems/implement-queue-using-stacks/question?list=neetcode250) | Easy | Stack |
+| 155 | [Min Stack](https://neetcode.io/problems/minimum-stack/question?list=neetcode250) | Medium | Stack |
+| 150 | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation/question?list=neetcode250) | Medium | Stack |
+| 735 | [Asteroid Collision](https://neetcode.io/problems/asteroid-collision/question?list=neetcode250) | Medium | Stack |
+| 739 | [Daily Temperatures](https://neetcode.io/problems/daily-temperatures/question?list=neetcode250) | Medium | Stack |
+| 901 | [Online Stock Span](https://neetcode.io/problems/online-stock-span/question?list=neetcode250) | Medium | Stack |
+| 853 | [Car Fleet](https://neetcode.io/problems/car-fleet/question?list=neetcode250) | Medium | Stack |
+| 71 | [Simplify Path](https://neetcode.io/problems/simplify-path/question?list=neetcode250) | Medium | Stack |
+| 394 | [Decode String](https://neetcode.io/problems/decode-string/question?list=neetcode250) | Medium | Stack |
+| 895 | [Maximum Frequency Stack](https://neetcode.io/problems/maximum-frequency-stack/question?list=neetcode250) | Hard | Stack |
+| 84 | [Largest Rectangle In Histogram](https://neetcode.io/problems/largest-rectangle-in-histogram/question?list=neetcode250) | Hard | Stack |
+| 704 | [Binary Search](https://neetcode.io/problems/binary-search/question?list=neetcode250) | Easy | Binary Search |
+| 35 | [Search Insert Position](https://neetcode.io/problems/search-insert-position/question?list=neetcode250) | Easy | Binary Search |
+| 374 | [Guess Number Higher Or Lower](https://neetcode.io/problems/guess-number-higher-or-lower/question?list=neetcode250) | Easy | Binary Search |
+| 69 | [Sqrt(x)](https://neetcode.io/problems/sqrtx/question?list=neetcode250) | Easy | Binary Search |
+| 74 | [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix/question?list=neetcode250) | Medium | Binary Search |
+| 875 | [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas/question?list=neetcode250) | Medium | Binary Search |
+| 1011 | [Capacity to Ship Packages Within D Days](https://neetcode.io/problems/capacity-to-ship-packages-within-d-days/question?list=neetcode250) | Medium | Binary Search |
+| 153 | [Find Minimum In Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array/question?list=neetcode250) | Medium | Binary Search |
+| 33 | [Search In Rotated Sorted Array](https://neetcode.io/problems/find-target-in-rotated-sorted-array/question?list=neetcode250) | Medium | Binary Search |
+| 81 | [Search In Rotated Sorted Array II](https://neetcode.io/problems/search-in-rotated-sorted-array-ii/question?list=neetcode250) | Medium | Binary Search |
+| 981 | [Time Based Key Value Store](https://neetcode.io/problems/time-based-key-value-store/question?list=neetcode250) | Medium | Binary Search |
+| 410 | [Split Array Largest Sum](https://neetcode.io/problems/split-array-largest-sum/question?list=neetcode250) | Hard | Binary Search |
+| 4 | [Median of Two Sorted Arrays](https://neetcode.io/problems/median-of-two-sorted-arrays/question?list=neetcode250) | Hard | Binary Search |
+| 1095 | [Find in Mountain Array](https://neetcode.io/problems/find-in-mountain-array/question?list=neetcode250) | Hard | Binary Search |
+| 206 | [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list/question?list=neetcode250) | Easy | Linked List |
+| 21 | [Merge Two Sorted Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists/question?list=neetcode250) | Easy | Linked List |
+| 141 | [Linked List Cycle](https://neetcode.io/problems/linked-list-cycle-detection/question?list=neetcode250) | Easy | Linked List |
+| 143 | [Reorder List](https://neetcode.io/problems/reorder-linked-list/question?list=neetcode250) | Medium | Linked List |
+| 19 | [Remove Nth Node From End of List](https://neetcode.io/problems/remove-node-from-end-of-linked-list/question?list=neetcode250) | Medium | Linked List |
+| 138 | [Copy List With Random Pointer](https://neetcode.io/problems/copy-linked-list-with-random-pointer/question?list=neetcode250) | Medium | Linked List |
+| 2 | [Add Two Numbers](https://neetcode.io/problems/add-two-numbers/question?list=neetcode250) | Medium | Linked List |
+| 287 | [Find The Duplicate Number](https://neetcode.io/problems/find-duplicate-integer/question?list=neetcode250) | Medium | Linked List |
+| 92 | [Reverse Linked List II](https://neetcode.io/problems/reverse-linked-list-ii/question?list=neetcode250) | Medium | Linked List |
+| 622 | [Design Circular Queue](https://neetcode.io/problems/design-circular-queue/question?list=neetcode250) | Medium | Linked List |
+| 146 | [LRU Cache](https://neetcode.io/problems/lru-cache/question?list=neetcode250) | Medium | Linked List |
+| 460 | [LFU Cache](https://neetcode.io/problems/lfu-cache/question?list=neetcode250) | Hard | Linked List |
+| 23 | [Merge K Sorted Lists](https://neetcode.io/problems/merge-k-sorted-linked-lists/question?list=neetcode250) | Hard | Linked List |
+| 25 | [Reverse Nodes In K Group](https://neetcode.io/problems/reverse-nodes-in-k-group/question?list=neetcode250) | Hard | Linked List |
+| 94 | [Binary Tree Inorder Traversal](https://neetcode.io/problems/binary-tree-inorder-traversal/question?list=neetcode250) | Easy | Trees |
+| 144 | [Binary Tree Preorder Traversal](https://neetcode.io/problems/binary-tree-preorder-traversal/question?list=neetcode250) | Easy | Trees |
+| 145 | [Binary Tree Postorder Traversal](https://neetcode.io/problems/binary-tree-postorder-traversal/question?list=neetcode250) | Easy | Trees |
+| 226 | [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree/question?list=neetcode250) | Easy | Trees |
+| 104 | [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree/question?list=neetcode250) | Easy | Trees |
+| 543 | [Diameter of Binary Tree](https://neetcode.io/problems/binary-tree-diameter/question?list=neetcode250) | Easy | Trees |
+| 110 | [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree/question?list=neetcode250) | Easy | Trees |
+| 100 | [Same Tree](https://neetcode.io/problems/same-binary-tree/question?list=neetcode250) | Easy | Trees |
+| 572 | [Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree/question?list=neetcode250) | Easy | Trees |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree/question?list=neetcode250) | Medium | Trees |
+| 701 | [Insert into a Binary Search Tree](https://neetcode.io/problems/insert-into-a-binary-search-tree/question?list=neetcode250) | Medium | Trees |
+| 450 | [Delete Node in a BST](https://neetcode.io/problems/delete-node-in-a-bst/question?list=neetcode250) | Medium | Trees |
+| 102 | [Binary Tree Level Order Traversal](https://neetcode.io/problems/level-order-traversal-of-binary-tree/question?list=neetcode250) | Medium | Trees |
+| 199 | [Binary Tree Right Side View](https://neetcode.io/problems/binary-tree-right-side-view/question?list=neetcode250) | Medium | Trees |
+| 427 | [Construct Quad Tree](https://neetcode.io/problems/construct-quad-tree/question?list=neetcode250) | Medium | Trees |
+| 1448 | [Count Good Nodes In Binary Tree](https://neetcode.io/problems/count-good-nodes-in-binary-tree/question?list=neetcode250) | Medium | Trees |
+| 98 | [Validate Binary Search Tree](https://neetcode.io/problems/valid-binary-search-tree/question?list=neetcode250) | Medium | Trees |
+| 230 | [Kth Smallest Element In a Bst](https://neetcode.io/problems/kth-smallest-integer-in-bst/question?list=neetcode250) | Medium | Trees |
+| 105 | [Construct Binary Tree From Preorder And Inorder Traversal](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question?list=neetcode250) | Medium | Trees |
+| 337 | [House Robber III](https://neetcode.io/problems/house-robber-iii/question?list=neetcode250) | Medium | Trees |
+| 1325 | [Delete Leaves With a Given Value](https://neetcode.io/problems/delete-leaves-with-a-given-value/question?list=neetcode250) | Medium | Trees |
+| 124 | [Binary Tree Maximum Path Sum](https://neetcode.io/problems/binary-tree-maximum-path-sum/question?list=neetcode250) | Hard | Trees |
+| 297 | [Serialize And Deserialize Binary Tree](https://neetcode.io/problems/serialize-and-deserialize-binary-tree/question?list=neetcode250) | Hard | Trees |
+| 703 | [Kth Largest Element In a Stream](https://neetcode.io/problems/kth-largest-integer-in-a-stream/question?list=neetcode250) | Easy | Heap / Priority Queue |
+| 1046 | [Last Stone Weight](https://neetcode.io/problems/last-stone-weight/question?list=neetcode250) | Easy | Heap / Priority Queue |
+| 973 | [K Closest Points to Origin](https://neetcode.io/problems/k-closest-points-to-origin/question?list=neetcode250) | Medium | Heap / Priority Queue |
+| 215 | [Kth Largest Element In An Array](https://neetcode.io/problems/kth-largest-element-in-an-array/question?list=neetcode250) | Medium | Heap / Priority Queue |
+| 621 | [Task Scheduler](https://neetcode.io/problems/task-scheduling/question?list=neetcode250) | Medium | Heap / Priority Queue |
+| 355 | [Design Twitter](https://neetcode.io/problems/design-twitter-feed/question?list=neetcode250) | Medium | Heap / Priority Queue |
+| 1834 | [Single Threaded CPU](https://neetcode.io/problems/single-threaded-cpu/question?list=neetcode250) | Medium | Heap / Priority Queue |
+| 767 | [Reorganize String](https://neetcode.io/problems/reorganize-string/question?list=neetcode250) | Medium | Heap / Priority Queue |
+| 1405 | [Longest Happy String](https://neetcode.io/problems/longest-happy-string/question?list=neetcode250) | Medium | Heap / Priority Queue |
+| 1094 | [Car Pooling](https://neetcode.io/problems/car-pooling/question?list=neetcode250) | Medium | Heap / Priority Queue |
+| 295 | [Find Median From Data Stream](https://neetcode.io/problems/find-median-in-a-data-stream/question?list=neetcode250) | Hard | Heap / Priority Queue |
+| 502 | [IPO](https://neetcode.io/problems/ipo/question?list=neetcode250) | Hard | Heap / Priority Queue |
+| ? | [Sum of All Subsets XOR Total](https://neetcode.io/problems/sum-of-all-subset-xor-totals/question?list=neetcode250) | ? | Backtracking |
+| 78 | [Subsets](https://neetcode.io/problems/subsets/question?list=neetcode250) | Medium | Backtracking |
+| 39 | [Combination Sum](https://neetcode.io/problems/combination-target-sum/question?list=neetcode250) | Medium | Backtracking |
+| 40 | [Combination Sum II](https://neetcode.io/problems/combination-target-sum-ii/question?list=neetcode250) | Medium | Backtracking |
+| 77 | [Combinations](https://neetcode.io/problems/combinations/question?list=neetcode250) | Medium | Backtracking |
+| 46 | [Permutations](https://neetcode.io/problems/permutations/question?list=neetcode250) | Medium | Backtracking |
+| 90 | [Subsets II](https://neetcode.io/problems/subsets-ii/question?list=neetcode250) | Medium | Backtracking |
+| 47 | [Permutations II](https://neetcode.io/problems/permutations-ii/question?list=neetcode250) | Medium | Backtracking |
+| 22 | [Generate Parentheses](https://neetcode.io/problems/generate-parentheses/question?list=neetcode250) | Medium | Backtracking |
+| 79 | [Word Search](https://neetcode.io/problems/search-for-word/question?list=neetcode250) | Medium | Backtracking |
+| 131 | [Palindrome Partitioning](https://neetcode.io/problems/palindrome-partitioning/question?list=neetcode250) | Medium | Backtracking |
+| 17 | [Letter Combinations of a Phone Number](https://neetcode.io/problems/combinations-of-a-phone-number/question?list=neetcode250) | Medium | Backtracking |
+| 473 | [Matchsticks to Square](https://neetcode.io/problems/matchsticks-to-square/question?list=neetcode250) | Medium | Backtracking |
+| 698 | [Partition to K Equal Sum Subsets](https://neetcode.io/problems/partition-to-k-equal-sum-subsets/question?list=neetcode250) | Medium | Backtracking |
+| 51 | [N Queens](https://neetcode.io/problems/n-queens/question?list=neetcode250) | Hard | Backtracking |
+| 52 | [N Queens II](https://neetcode.io/problems/n-queens-ii/question?list=neetcode250) | Hard | Backtracking |
+| 140 | [Word Break II](https://neetcode.io/problems/word-break-ii/question?list=neetcode250) | Hard | Backtracking |
+| 208 | [Implement Trie Prefix Tree](https://neetcode.io/problems/implement-prefix-tree/question?list=neetcode250) | Medium | Tries |
+| 211 | [Design Add And Search Words Data Structure](https://neetcode.io/problems/design-word-search-data-structure/question?list=neetcode250) | Medium | Tries |
+| 2707 | [Extra Characters in a String](https://neetcode.io/problems/extra-characters-in-a-string/question?list=neetcode250) | Medium | Tries |
+| 212 | [Word Search II](https://neetcode.io/problems/search-for-word-ii/question?list=neetcode250) | Hard | Tries |
+| 463 | [Island Perimeter](https://neetcode.io/problems/island-perimeter/question?list=neetcode250) | Easy | Graphs |
+| 953 | [Verifying An Alien Dictionary](https://neetcode.io/problems/verifying-an-alien-dictionary/question?list=neetcode250) | Easy | Graphs |
+| 997 | [Find the Town Judge](https://neetcode.io/problems/find-the-town-judge/question?list=neetcode250) | Easy | Graphs |
+| 200 | [Number of Islands](https://neetcode.io/problems/count-number-of-islands/question?list=neetcode250) | Medium | Graphs |
+| 695 | [Max Area of Island](https://neetcode.io/problems/max-area-of-island/question?list=neetcode250) | Medium | Graphs |
+| 133 | [Clone Graph](https://neetcode.io/problems/clone-graph/question?list=neetcode250) | Medium | Graphs |
+| 286 | [Walls And Gates](https://neetcode.io/problems/islands-and-treasure/question?list=neetcode250) | Medium | Graphs |
+| 994 | [Rotting Oranges](https://neetcode.io/problems/rotting-fruit/question?list=neetcode250) | Medium | Graphs |
+| 417 | [Pacific Atlantic Water Flow](https://neetcode.io/problems/pacific-atlantic-water-flow/question?list=neetcode250) | Medium | Graphs |
+| 130 | [Surrounded Regions](https://neetcode.io/problems/surrounded-regions/question?list=neetcode250) | Medium | Graphs |
+| 752 | [Open The Lock](https://neetcode.io/problems/open-the-lock/question?list=neetcode250) | Medium | Graphs |
+| 207 | [Course Schedule](https://neetcode.io/problems/course-schedule/question?list=neetcode250) | Medium | Graphs |
+| 210 | [Course Schedule II](https://neetcode.io/problems/course-schedule-ii/question?list=neetcode250) | Medium | Graphs |
+| 261 | [Graph Valid Tree](https://neetcode.io/problems/valid-tree/question?list=neetcode250) | Medium | Graphs |
+| 1462 | [Course Schedule IV](https://neetcode.io/problems/course-schedule-iv/question?list=neetcode250) | Medium | Graphs |
+| 323 | [Number of Connected Components In An Undirected Graph](https://neetcode.io/problems/count-connected-components/question?list=neetcode250) | Medium | Graphs |
+| 684 | [Redundant Connection](https://neetcode.io/problems/redundant-connection/question?list=neetcode250) | Medium | Graphs |
+| 721 | [Accounts Merge](https://neetcode.io/problems/accounts-merge/question?list=neetcode250) | Medium | Graphs |
+| 399 | [Evaluate Division](https://neetcode.io/problems/evaluate-division/question?list=neetcode250) | Medium | Graphs |
+| 310 | [Minimum Height Trees](https://neetcode.io/problems/minimum-height-trees/question?list=neetcode250) | Medium | Graphs |
+| 127 | [Word Ladder](https://neetcode.io/problems/word-ladder/question?list=neetcode250) | Hard | Graphs |
+| 1631 | [Path with Minimum Effort](https://neetcode.io/problems/path-with-minimum-effort/question?list=neetcode250) | Medium | Advanced Graphs |
+| 743 | [Network Delay Time](https://neetcode.io/problems/network-delay-time/question?list=neetcode250) | Medium | Advanced Graphs |
+| 332 | [Reconstruct Itinerary](https://neetcode.io/problems/reconstruct-flight-path/question?list=neetcode250) | Hard | Advanced Graphs |
+| 1584 | [Min Cost to Connect All Points](https://neetcode.io/problems/min-cost-to-connect-points/question?list=neetcode250) | Medium | Advanced Graphs |
+| 778 | [Swim In Rising Water](https://neetcode.io/problems/swim-in-rising-water/question?list=neetcode250) | Hard | Advanced Graphs |
+| 269 | [Alien Dictionary](https://neetcode.io/problems/foreign-dictionary/question?list=neetcode250) | Hard | Advanced Graphs |
+| 787 | [Cheapest Flights Within K Stops](https://neetcode.io/problems/cheapest-flight-path/question?list=neetcode250) | Medium | Advanced Graphs |
+| 1489 | [Find Critical and Pseudo Critical Edges in Minimum Spanning Tree](https://neetcode.io/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/question?list=neetcode250) | Hard | Advanced Graphs |
+| 2392 | [Build a Matrix With Conditions](https://neetcode.io/problems/build-a-matrix-with-conditions/question?list=neetcode250) | Hard | Advanced Graphs |
+| 2709 | [Greatest Common Divisor Traversal](https://neetcode.io/problems/greatest-common-divisor-traversal/question?list=neetcode250) | Hard | Advanced Graphs |
+| 70 | [Climbing Stairs](https://neetcode.io/problems/climbing-stairs/question?list=neetcode250) | Easy | 1-D Dynamic Programming |
+| 746 | [Min Cost Climbing Stairs](https://neetcode.io/problems/min-cost-climbing-stairs/question?list=neetcode250) | Easy | 1-D Dynamic Programming |
+| 1137 | [N-th Tribonacci Number](https://neetcode.io/problems/n-th-tribonacci-number/question?list=neetcode250) | Easy | 1-D Dynamic Programming |
+| 198 | [House Robber](https://neetcode.io/problems/house-robber/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 213 | [House Robber II](https://neetcode.io/problems/house-robber-ii/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 5 | [Longest Palindromic Substring](https://neetcode.io/problems/longest-palindromic-substring/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 647 | [Palindromic Substrings](https://neetcode.io/problems/palindromic-substrings/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 91 | [Decode Ways](https://neetcode.io/problems/decode-ways/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 322 | [Coin Change](https://neetcode.io/problems/coin-change/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 152 | [Maximum Product Subarray](https://neetcode.io/problems/maximum-product-subarray/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 139 | [Word Break](https://neetcode.io/problems/word-break/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 300 | [Longest Increasing Subsequence](https://neetcode.io/problems/longest-increasing-subsequence/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 416 | [Partition Equal Subset Sum](https://neetcode.io/problems/partition-equal-subset-sum/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 377 | [Combination Sum IV](https://neetcode.io/problems/combination-sum-iv/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 279 | [Perfect Squares](https://neetcode.io/problems/perfect-squares/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 343 | [Integer Break](https://neetcode.io/problems/integer-break/question?list=neetcode250) | Medium | 1-D Dynamic Programming |
+| 1406 | [Stone Game III](https://neetcode.io/problems/stone-game-iii/question?list=neetcode250) | Hard | 1-D Dynamic Programming |
+| 62 | [Unique Paths](https://neetcode.io/problems/count-paths/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 63 | [Unique Paths II](https://neetcode.io/problems/unique-paths-ii/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 64 | [Minimum Path Sum](https://neetcode.io/problems/minimum-path-sum/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 1143 | [Longest Common Subsequence](https://neetcode.io/problems/longest-common-subsequence/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 1049 | [Last Stone Weight II](https://neetcode.io/problems/last-stone-weight-ii/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 309 | [Best Time to Buy And Sell Stock With Cooldown](https://neetcode.io/problems/buy-and-sell-crypto-with-cooldown/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 518 | [Coin Change II](https://neetcode.io/problems/coin-change-ii/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 494 | [Target Sum](https://neetcode.io/problems/target-sum/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 97 | [Interleaving String](https://neetcode.io/problems/interleaving-string/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 877 | [Stone Game](https://neetcode.io/problems/stone-game/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 1140 | [Stone Game II](https://neetcode.io/problems/stone-game-ii/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 329 | [Longest Increasing Path In a Matrix](https://neetcode.io/problems/longest-increasing-path-in-matrix/question?list=neetcode250) | Hard | 2-D Dynamic Programming |
+| 115 | [Distinct Subsequences](https://neetcode.io/problems/count-subsequences/question?list=neetcode250) | Hard | 2-D Dynamic Programming |
+| 72 | [Edit Distance](https://neetcode.io/problems/edit-distance/question?list=neetcode250) | Medium | 2-D Dynamic Programming |
+| 312 | [Burst Balloons](https://neetcode.io/problems/burst-balloons/question?list=neetcode250) | Hard | 2-D Dynamic Programming |
+| 10 | [Regular Expression Matching](https://neetcode.io/problems/regular-expression-matching/question?list=neetcode250) | Hard | 2-D Dynamic Programming |
+| 860 | [Lemonade Change](https://neetcode.io/problems/lemonade-change/question?list=neetcode250) | Easy | Greedy |
+| 53 | [Maximum Subarray](https://neetcode.io/problems/maximum-subarray/question?list=neetcode250) | Medium | Greedy |
+| 918 | [Maximum Sum Circular Subarray](https://neetcode.io/problems/maximum-sum-circular-subarray/question?list=neetcode250) | Medium | Greedy |
+| 978 | [Longest Turbulent Subarray](https://neetcode.io/problems/longest-turbulent-subarray/question?list=neetcode250) | Medium | Greedy |
+| 55 | [Jump Game](https://neetcode.io/problems/jump-game/question?list=neetcode250) | Medium | Greedy |
+| 45 | [Jump Game II](https://neetcode.io/problems/jump-game-ii/question?list=neetcode250) | Medium | Greedy |
+| 1871 | [Jump Game VII](https://neetcode.io/problems/jump-game-vii/question?list=neetcode250) | Medium | Greedy |
+| 134 | [Gas Station](https://neetcode.io/problems/gas-station/question?list=neetcode250) | Medium | Greedy |
+| 846 | [Hand of Straights](https://neetcode.io/problems/hand-of-straights/question?list=neetcode250) | Medium | Greedy |
+| 649 | [Dota2 Senate](https://neetcode.io/problems/dota2-senate/question?list=neetcode250) | Medium | Greedy |
+| 1899 | [Merge Triplets to Form Target Triplet](https://neetcode.io/problems/merge-triplets-to-form-target/question?list=neetcode250) | Medium | Greedy |
+| 763 | [Partition Labels](https://neetcode.io/problems/partition-labels/question?list=neetcode250) | Medium | Greedy |
+| 678 | [Valid Parenthesis String](https://neetcode.io/problems/valid-parenthesis-string/question?list=neetcode250) | Medium | Greedy |
+| 135 | [Candy](https://neetcode.io/problems/candy/question?list=neetcode250) | Hard | Greedy |
+| 57 | [Insert Interval](https://neetcode.io/problems/insert-new-interval/question?list=neetcode250) | Medium | Intervals |
+| 56 | [Merge Intervals](https://neetcode.io/problems/merge-intervals/question?list=neetcode250) | Medium | Intervals |
+| 435 | [Non Overlapping Intervals](https://neetcode.io/problems/non-overlapping-intervals/question?list=neetcode250) | Medium | Intervals |
+| 252 | [Meeting Rooms](https://neetcode.io/problems/meeting-schedule/question?list=neetcode250) | Easy | Intervals |
+| 253 | [Meeting Rooms II](https://neetcode.io/problems/meeting-schedule-ii/question?list=neetcode250) | Medium | Intervals |
+| 2402 | [Meeting Rooms III](https://neetcode.io/problems/meeting-rooms-iii/question?list=neetcode250) | Hard | Intervals |
+| 1851 | [Minimum Interval to Include Each Query](https://neetcode.io/problems/minimum-interval-including-query/question?list=neetcode250) | Hard | Intervals |
+| 168 | [Excel Sheet Column Title](https://neetcode.io/problems/excel-sheet-column-title/question?list=neetcode250) | Easy | Math & Geometry |
+| 1071 | [Greatest Common Divisor of Strings](https://neetcode.io/problems/greatest-common-divisor-of-strings/question?list=neetcode250) | Easy | Math & Geometry |
+| 2807 | [Insert Greatest Common Divisors in Linked List](https://neetcode.io/problems/insert-greatest-common-divisors-in-linked-list/question?list=neetcode250) | Medium | Math & Geometry |
+| 867 | [Transpose Matrix](https://neetcode.io/problems/transpose-matrix/question?list=neetcode250) | Easy | Math & Geometry |
+| 48 | [Rotate Image](https://neetcode.io/problems/rotate-matrix/question?list=neetcode250) | Medium | Math & Geometry |
+| 54 | [Spiral Matrix](https://neetcode.io/problems/spiral-matrix/question?list=neetcode250) | Medium | Math & Geometry |
+| 73 | [Set Matrix Zeroes](https://neetcode.io/problems/set-zeroes-in-matrix/question?list=neetcode250) | Medium | Math & Geometry |
+| 202 | [Happy Number](https://neetcode.io/problems/non-cyclical-number/question?list=neetcode250) | Easy | Math & Geometry |
+| 66 | [Plus One](https://neetcode.io/problems/plus-one/question?list=neetcode250) | Easy | Math & Geometry |
+| 13 | [Roman to Integer](https://neetcode.io/problems/roman-to-integer/question?list=neetcode250) | Easy | Math & Geometry |
+| 50 | [Pow(x, n)](https://neetcode.io/problems/pow-x-n/question?list=neetcode250) | Medium | Math & Geometry |
+| 43 | [Multiply Strings](https://neetcode.io/problems/multiply-strings/question?list=neetcode250) | Medium | Math & Geometry |
+| 2013 | [Detect Squares](https://neetcode.io/problems/count-squares/question?list=neetcode250) | Medium | Math & Geometry |
+| 136 | [Single Number](https://neetcode.io/problems/single-number/question?list=neetcode250) | Easy | Bit Manipulation |
+| 191 | [Number of 1 Bits](https://neetcode.io/problems/number-of-one-bits/question?list=neetcode250) | Easy | Bit Manipulation |
+| 338 | [Counting Bits](https://neetcode.io/problems/counting-bits/question?list=neetcode250) | Easy | Bit Manipulation |
+| 67 | [Add Binary](https://neetcode.io/problems/add-binary/question?list=neetcode250) | Easy | Bit Manipulation |
+| 190 | [Reverse Bits](https://neetcode.io/problems/reverse-bits/question?list=neetcode250) | Easy | Bit Manipulation |
+| 268 | [Missing Number](https://neetcode.io/problems/missing-number/question?list=neetcode250) | Easy | Bit Manipulation |
+| 371 | [Sum of Two Integers](https://neetcode.io/problems/sum-of-two-integers/question?list=neetcode250) | Medium | Bit Manipulation |
+| 7 | [Reverse Integer](https://neetcode.io/problems/reverse-integer/question?list=neetcode250) | Medium | Bit Manipulation |
+| 201 | [Bitwise AND of Numbers Range](https://neetcode.io/problems/bitwise-and-of-numbers-range/question?list=neetcode250) | Medium | Bit Manipulation |
+| 3133 | [Minimum Array End](https://neetcode.io/problems/minimum-array-end/question?list=neetcode250) | Medium | Bit Manipulation |
