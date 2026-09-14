@@ -13,9 +13,9 @@ class PatternB{
 
        for(int i = 1 ; i <=n;i++)            //this loop is used to change the rows
         {      
-            for (int j = 1; j <=n; j++)      //this loop is used to print the stars in the column
+            for (int j = 1; j <=n; j++)      
             {    
-                System.out.print( i + " ");   //prints the stars inside the inner loop
+                System.out.print( i + " ");   //prints the numbers
             }
           System.out.println();             //this creates a new line before entering another loop.
        }
