@@ -1,4 +1,4 @@
-/* Pattern A - Square number pattern
+/* Pattern B - Square number pattern
  
     1 1 1 1
     2 2 2 2
