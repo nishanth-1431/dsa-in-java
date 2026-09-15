@@ -1,5 +1,3 @@
-
-
 /* Pattern E - Binary Number Triangle
     1
     0 1
