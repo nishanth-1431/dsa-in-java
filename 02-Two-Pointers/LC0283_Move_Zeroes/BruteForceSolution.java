@@ -2,7 +2,7 @@
     LeetCode #283 - Move Zeroes
     Difficulty : Easy
     Topic      : Arrays, Two Pointers
-    Status     : Accepted ✅
+    Status     : Accepted ✅ (Brute force)
     Link       : https://leetcode.com/problems/move-zeroes/
 
     -----------------------------------------------------------
